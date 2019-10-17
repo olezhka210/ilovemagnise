@@ -6,9 +6,9 @@ int main()
 
 {
 <<<<<<< HEAD
-	cout << "Hello Oleg!!!";
+	cout << "Hi Oleg!!!";
 =======
-	cout << "Hi world!!!";
+	cout << "Hi Oleg!!!";
 >>>>>>> origin/develop
 
 return 0;
